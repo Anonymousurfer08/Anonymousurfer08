@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh1777" alt="shubh1777" /></a> </p>
+
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BreadcrumbsAnonymousurfer08
+  <img src="https://profile-counter.glitch.me/Breadcrumbs/Anonymousurfer08
 /count.svg" />
 </p>
 
