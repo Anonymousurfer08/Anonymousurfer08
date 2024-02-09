@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Breadcrumbs/Anonymousurfer08
-/count.svg" />
+  <img src="https://profile-counter.glitch.me/Anonymousurfer08/count.svg" />
 </p>
 
